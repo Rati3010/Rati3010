@@ -1,7 +1,7 @@
-### Hi there 👋, I'M Ratikanta Mohanta
-#### I am Full-Stack Web Developer
+<h1 align="center">Hi 👋, I'm Raikanta Mohanta</h1>
+<h3>I am Full-Stack Web Developer</h3>
 I am Ratikatna Mohanta from India, I enjoy learning different languages and frameworks like React, and Node js.  
-
+<hr/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -49,9 +49,10 @@ I am Ratikatna Mohanta from India, I enjoy learning different languages and fram
 
 - 🌱 I’m currently learning Node 
 - 👯 I’m looking to collaborate on React Project 
-- 📫 How to reach me: https://www.instagram.com/mohantratikanta/ 
+- 📫 How to reach me: mratikanta1997@gmail.com
+- 👀 Portfolio: <a href="https://rati3010.github.io/" traget="_blank">Link</a>
+- 🖥  Linkedin: <a href="https://www.linkedin.com/in/ratikanta-mohanta-99a696238/" traget="_blank">Link</a>
 - ⚡ Fun fact: Not funny 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rati3010)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mratikanta1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohantratikanta//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/RatikantaMohanta)  
 
