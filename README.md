@@ -2,7 +2,7 @@
 <h3 align="center">I am Full-Stack Web Developer</h3>
 <p align="center">I am Ratikatna Mohanta from India, I enjoy learning different languages and frameworks like React, and Node js.</p>  
 <hr/>
-## My Skill Set  
+<h2 align="center">My Skill Set</h2>
 <table align="center"><tr><td valign="top" width="49%">
 
 
