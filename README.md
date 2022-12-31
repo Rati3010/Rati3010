@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raikanta Mohanta</h1>
-<h3>I am Full-Stack Web Developer</h3>
+<h3 align="center">I am Full-Stack Web Developer</h3>
 I am Ratikatna Mohanta from India, I enjoy learning different languages and frameworks like React, and Node js.  
 <hr/>
 ## My Skill Set  
@@ -64,7 +64,11 @@ I am Ratikatna Mohanta from India, I enjoy learning different languages and fram
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rati3010&" alt="rati3010" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rati3010&show_icons=true&locale=en&layout=compact" alt="rati3010" /></p>
+<p align="center">
 
-![snake gif](https://github.com/Rati3010/Rati3010/blob/output/github-contribution-grid-snake.gif) 
+  ![snake gif](https://github.com/Rati3010/Rati3010/blob/output/github-contribution-grid-snake.gif)
+  
+</p>
+ 
 
 ![Profile views](https://gpvc.arturio.dev/Rati3010)  
