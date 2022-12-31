@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raikanta Mohanta</h1>
 <h3 align="center">I am Full-Stack Web Developer</h3>
-<p>I am Ratikatna Mohanta from India, I enjoy learning different languages and frameworks like React, and Node js.</p>  
+<p align="center">I am Ratikatna Mohanta from India, I enjoy learning different languages and frameworks like React, and Node js.</p>  
 <hr/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
