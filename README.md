@@ -49,7 +49,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rati3010" alt="rati3010" /></a> </p>
 
-<p align="center">&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=rati3010&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=rati3010&show_icons=true&count_private=true)" alt="rati3010" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rati3010&show_icons=true&count_private=true" alt="rati3010" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rati3010&" alt="rati3010" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rati3010&show_icons=true&locale=en&layout=compact" alt="rati3010" /></p>
