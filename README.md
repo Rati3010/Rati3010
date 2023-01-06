@@ -52,7 +52,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rati3010&show_icons=true&count_private=true" alt="rati3010" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rati3010&" alt="rati3010" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rati3010&show_icons=true&locale=en&layout=compact" alt="rati3010" /></p>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rati3010&theme=react&line_height=40&hide=css"/> </a>
 <p align="center">
 
   ![snake gif](https://github.com/Rati3010/Rati3010/blob/output/github-contribution-grid-snake.gif)
