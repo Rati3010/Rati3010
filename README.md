@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raikanta Mohanta</h1>
 <h3 align="center">I am Full-Stack Web Developer</h3>
-<p align="center">I am Ratikatna Mohanta from India, I enjoy learning different languages and frameworks like React, and Node js.</p>  
+<p align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃.<br/> I focuses on writing clean, elegant and efficient code ✨.</p>  
 <hr/>
 <h2 align="center">My Skill Set</h2>
 <table align="center"><tr><td valign="top" width="49%">
